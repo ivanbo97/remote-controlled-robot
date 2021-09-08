@@ -3,4 +3,4 @@ Hardware Used : NodeMCU - 32s (microcontroller), GPS - NEO 6M, MPU6050 (gyroscop
 
 # Robot Prototype - Front view
 
-![Robot Front View](https://i.ibb.co/f0swjCx/rc-robot-persie.png)
+![Robot Front View](https://ibb.co/6813vG2)
