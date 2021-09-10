@@ -1,4 +1,4 @@
-# remote-controlled-robot
+# remote-controlled-robot [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 Hardware Used : NodeMCU - 32s (microcontroller), GPS - NEO 6M, MPU6050 (gyroscope) ,IC L293D (motor dirver), 2x TT motors, 3-wheel chassis (delta type)
 
 # Robot Prototype - Front view
