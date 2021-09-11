@@ -1,5 +1,14 @@
 # remote-controlled-robot [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-Hardware Used : NodeMCU - 32s (microcontroller), GPS - NEO 6M, MPU6050 (gyroscope) ,IC L293D (motor dirver), 2x TT motors, 3-wheel chassis (delta type)
+
+This robot prototype is intended to follow specific geographic coordinates recevied from BLE (Bluetoth Low Energy) device. It has 3 speed levels and the entire communication is encrypted after pairing. 
+### Hardware Used 
+* NodeMCU - 32s (microcontroller)
+* GPS - NEO 6M
+* MPU6050 (gyroscope) 
+* IC L293D (motor dirver)
+* 2x TT motors
+* LiFePO4 26650 battery
+* 3-wheel chassis (delta type)
 
 # Robot Prototype - Front view
 
